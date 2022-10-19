@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 ![FIN (1)](https://user-images.githubusercontent.com/81199017/196582654-23deacc8-2a62-4b61-88f7-c6f6040a693e.gif)
 
-[X] User can view comments on a post. (3pts)
-[X] User can add a new comment. (5pts)
+- [X] User can view comments on a post. (3pts)
+- [X] User can add a new comment. (5pts)
 
 ![FIN2 (1)](https://user-images.githubusercontent.com/81199017/196583349-e977c918-f1c8-4733-a9c6-3a4960d4b26d.gif)
